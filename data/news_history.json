@@ -142,5 +142,187 @@
         ]
       }
     ]
+  },
+  "2025-12-12_21-36": {
+    "date": "2025-12-12_21-36",
+    "briefing": "고위험군 의료기기 산업은 AI를 활용한 R&D 및 글로벌 혁신제품 신속 심사 지정 확대 등 기술 혁신 기반 성장 동력을 확보하는 동시에, GMP 규정 준수 강화와 비급여 통제를 둘러싼 수가 정책 갈등을 핵심 리스크로 인식하고 있다.",
+    "topics": [
+      {
+        "title": "첨단 재생의료 및 R&D 혁신 가속화",
+        "summary": "AI 기반 신약 개발 (ID 15, 16) 및 중개연구(TR) 전문가 영입 (ID 13) 등 첨단 R&D 혁신 투자가 활발하며, 특히 첨단재생의료 분야의 특허 확보 성과 (ID 18)와 글로벌 혁신 제품에 대한 우선 신속 심사 제도 적용 범위 명료화 (ID 59)를 통해 고위험군 의료 바이오 파이프라인의 시장 진입 속도가 빨라질 것으로 예상된다.",
+        "news_ids": [
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          59
+        ],
+        "news_links": [
+          {
+            "title": "리가켐바이오, 루닛 전 CMO 옥찬영 박사 영입",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034651",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034651_3037665_731_v150.jpg"
+          },
+          {
+            "title": "﻿유한양행, '2025 한국의 경영대상' 수상",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034653",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034653_3037667_1325_v150.jpg"
+          },
+          {
+            "title": "목암생명과학연구소, AI 학회 '뉴립스'에 논문 등재",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034652",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034652_3037666_943_v150.jpg"
+          },
+          {
+            "title": "갤럭스-서울대, 면역원성 예측 모델 ‘T-SCAPE’ 개발",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034650",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034650_3037664_339_v150.jpg"
+          },
+          {
+            "title": "﻿루카스바이오, 지식재산처장상 수상…\"특허 19건 획득\"",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034648",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034648_3037662_5615_v150.jpg"
+          },
+          {
+            "title": "내년 JPM 헬스케어 컨퍼런스에 韓기업 5곳 공식 발표자로 나선다",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034626",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034626_3037636_2648_v150.jpg"
+          },
+          {
+            "title": "내년 글로벌 혁신제품 우선 신속 심사 지정 대상 '심각한 중증질환' 등 적용범위 명료화",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75232",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75232_49236_138.png"
+          }
+        ]
+      },
+      {
+        "title": "제조 품질 및 규제 환경 준수 강화",
+        "summary": "식품의약품안전처가 자사 기준서를 준수하지 않은 제약사에 대해 제조업무 정지 처분을 내리며 제조 품질 관리(GMP)에 대한 감독을 엄격히 적용하고 있어 (ID 38, 39), 모든 의료제품 제조사의 규정 준수 중요성이 강조된다. 또한, 디지털헬스산업 육성 특별법 발의 (ID 5) 등 새로운 융합 산업에 대한 제도적 기반 마련 논의가 진행 중이다.",
+        "news_ids": [
+          5,
+          38,
+          39,
+          67
+        ],
+        "news_links": [
+          {
+            "title": "디지털헬스산업육성 특별법 발의에 산업계 “환영”",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034708",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034708_3037730_2957_v150.jpg"
+          },
+          {
+            "title": "식약처, 자사기준서를 준수하지 않은 삼익제약(주)의 바로스타틴정40mg 등 17품목에 제조업무정지 1개월의 행정처분",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75258",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75258_49275_1031.png"
+          },
+          {
+            "title": "식약처, 자사기준서 미준수한 제일약품(주) ‘크라비트주’-‘플로목세프나트륨(제20091027-72-A-231-02호)'에 제조업무정지 1개월의 행정처분",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75257",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75257_49273_4119.png"
+          },
+          {
+            "title": "분당서울대병원, 대한민국 정보보호대상 단체부문 우수상",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75225",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75225_49227_3551.jpg"
+          }
+        ]
+      },
+      {
+        "title": "미용 시장 및 약물 전달 기술의 융합",
+        "summary": "미용/피부 관리 시장에서 PDRN, 펩타이드 기반 스킨부스터 앰플이 초음파 디바이스와 결합하여 전문적인 시너지를 창출하는 형태의 제품 라인업이 확대되고 있으며 (ID 1, 3, 4, 58), 바이오 기업들은 히알루로니다제 기반의 SC(피하주사) 제형 전환 기술을 내재화하여 약물 전달 및 제형 차별화를 꾀하고 있다 (ID 55).",
+        "news_ids": [
+          1,
+          2,
+          3,
+          4,
+          55,
+          58
+        ],
+        "news_links": [
+          {
+            "title": "[데일리 산업 단신] 한진그룹, 인하대병원 어린이 환자 '가족 쉼터' 건립 外",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://biz.newdaily.co.kr/svc/article_print.html%3Fno%3D2025121200202&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3dTUziFjC0aGX2SOAVxA_Q",
+            "image": null
+          },
+          {
+            "title": "써마지 리프팅, 피부 상태에 맞춘 안전한 적용이 중요 - 이코노미사이언스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.e-science.co.kr/news/articleView.html%3Fidxno%3D118455&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw2A8gkpmLcd8WQHM8OYh02Z",
+            "image": null
+          },
+          {
+            "title": "조에바이오, 'NOVACUTAN 글로벌 안티에이징 포럼' 성료 - 팜뉴스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.pharmnews.com/news/articleView.html%3Fidxno%3D300205&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0e-GziwMa9yFAqophcaDyr",
+            "image": null
+          },
+          {
+            "title": "에이피알, 2분기 역대 최대 분기 실적 전망…목표가 47.8%↑-NH - MSN",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/ko-kr/news/other/%25EC%2597%2590%25EC%259D%25B4%25ED%2594%25BC%25EC%2595%258C-2%25EB%25B6%2584%25EA%25B8%25B0-%25EC%2597%25AD%25EB%258C%2580-%25EC%25B5%259C%25EB%258C%2580-%25EB%25B6%2584%25EA%25B8%25B0-%25EC%258B%25A4%25EC%25A0%2581-%25EC%25A0%2584%25EB%25A7%259D-%25EB%25AA%25A9%25ED%2591%259C%25EA%25B0%2580-478-nh/ar-AA1Hhpck%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw12NK-4NfB5fGzfyJ0otyXs",
+            "image": null
+          },
+          {
+            "title": "셀트리온, ‘히알루로니다제’ 기반 SC 전환 기술 내재화...‘허쥬마 SC’ 개발 순항",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75238",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75238_49246_4151.jpg"
+          },
+          {
+            "title": "동국제약 ‘DK SHOP’, 2025 KCIA 한국소비자산업평가 우수업체 선정",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75235",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75235_49242_1841.jpg"
+          }
+        ]
+      },
+      {
+        "title": "필수 의료 정책 및 수가 보상 체계 갈등 심화",
+        "summary": "정부가 도수치료 등 비급여 항목을 '관리급여'(본인부담률 95%)로 전환하는 정책을 강행하자 의료계가 강력히 반발하며 헌법소원까지 고려하는 등 갈등이 첨예화되고 있다 (ID 25, 26, 71). 이와 함께 상대가치점수 조정 및 약가제도 개편안 (ID 34, 48) 논의가 진행되면서, 필수 의료와 보험 재정 건전성 확보를 둘러싼 보상 시스템의 변화가 시장에 미치는 영향이 커지고 있다.",
+        "news_ids": [
+          25,
+          26,
+          30,
+          33,
+          34,
+          48,
+          71
+        ],
+        "news_links": [
+          {
+            "title": "국민 치료권 박탈 ‘관리급여’, 규제의 칼날일 뿐",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265284",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265284_299669_359_v150.jpg"
+          },
+          {
+            "title": "도수치료 관리급여 선정, “국민 위험에 빠뜨리는 배임 행위다”",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265305",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265305_299692_4657_v150.jpg"
+          },
+          {
+            "title": "참여 중심 ‘의료혁신위’ 본격 가동…위원장에 정기현 원장",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265277",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265277_299683_3125_v150.jpg"
+          },
+          {
+            "title": "의료혁신위 ‘정부 조언자’ 역할 강조…아젠다 미정",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265308",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265308_299693_5633_v150.jpg"
+          },
+          {
+            "title": "정부, ‘상대가치점수 조정’ 본격시작…추진단 첫 회의",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265309",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265309_299696_644_v150.jpg"
+          },
+          {
+            "title": "비대위, 약가제도 개편안 '전 회원사 CEO 대상 긴급 설문조사' 12일 마무리",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75248",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75248_49259_4615.jpg"
+          },
+          {
+            "title": "의협, 도수치료 등 정부 관리급여 선정 강행 강력 '유감'…헌법소원 등 강구할것",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75217",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75217_49223_4025.jpeg"
+          }
+        ]
+      }
+    ]
   }
 }
