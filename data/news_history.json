@@ -250,5 +250,145 @@
         ]
       }
     ]
+  },
+  "2025-12-12_20-38": {
+    "date": "2025-12-12_20-38",
+    "briefing": "고위험 삽입형 의료기기에 대한 직접적인 정보는 제한적이나, 에스테틱 및 복합 치료 기기의 시장 확대가 지속되는 가운데, 정부는 의료 혁신 위원회를 가동하고 데이터 보안 및 GMP 기준 준수를 강조하며 전반적인 규제 환경을 강화하고 있다.",
+    "topics": [
+      {
+        "title": "Aesthetics and Combination Therapy Market Expansion",
+        "summary": "스킨부스터(PDRN, 펩타이드 기반) 및 미용 디바이스 시장의 성장이 지속되며, 리프팅 시술과의 병행 치료 트렌드가 강조되고, 중장기적으로 의료용 미용기기 출시 계획을 가진 기업들이 주목받는 등 에스테틱 분야의 기술 경쟁 및 시장 확대가 활발하다.",
+        "news_ids": [
+          1,
+          2,
+          3,
+          4,
+          43,
+          45,
+          51
+        ],
+        "news_links": [
+          {
+            "title": "[데일리 산업 단신] 한진그룹, 인하대병원 어린이 환자 '가족 쉼터' 건립 外",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://biz.newdaily.co.kr/svc/article_print.html%3Fno%3D2025121200202&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3dTUziFjC0aGX2SOAVxA_Q",
+            "image": null
+          },
+          {
+            "title": "써마지 리프팅, 피부 상태에 맞춘 안전한 적용이 중요 - 이코노미사이언스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.e-science.co.kr/news/articleView.html%3Fidxno%3D118455&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw2A8gkpmLcd8WQHM8OYh02Z",
+            "image": null
+          },
+          {
+            "title": "조에바이오, 'NOVACUTAN 글로벌 안티에이징 포럼' 성료 - 팜뉴스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.pharmnews.com/news/articleView.html%3Fidxno%3D300205&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0e-GziwMa9yFAqophcaDyr",
+            "image": null
+          },
+          {
+            "title": "에이피알, 2분기 역대 최대 분기 실적 전망…목표가 47.8%↑-NH - MSN",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/ko-kr/news/other/%25EC%2597%2590%25EC%259D%25B4%25ED%2594%25BC%25EC%2595%258C-2%25EB%25B6%2584%25EA%25B8%25B0-%25EC%2597%25AD%25EB%258C%2580-%25EC%25B5%259C%25EB%258C%2580-%25EB%25B6%2584%25EA%25B8%25B0-%25EC%258B%25A4%25EC%25A0%2581-%25EC%25A0%2584%25EB%25A7%259D-%25EB%25AA%25A9%25ED%2591%259C%25EA%25B0%2580-478-nh/ar-AA1Hhpck%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw12NK-4NfB5fGzfyJ0otyXs",
+            "image": null
+          },
+          {
+            "title": "동국제약, 센텔리안24 ‘360도 샷 PDRN’ 아이케어 라인 2종 출시",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75239",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75239_49247_468.jpg"
+          },
+          {
+            "title": "동국제약 ‘DK SHOP’, 2025 KCIA 한국소비자산업평가 우수업체 선정",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75235",
+            "image": null
+          },
+          {
+            "title": "멀츠 에스테틱스 코리아 ‘벨로테로’, 2025 제약바이오산업 광고·PR대상 우수상 수상",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75229",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75229_49233_241.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Regulatory Compliance and Quality Control Enforcement",
+        "summary": "정부는 의료 혁신 위원회를 가동하여 지역·필수·공공의료 강화를 위한 의제를 설정하고 있으며, 동시에 식약처는 제조사의 자사 기준서 미준수 사례(삼익제약, 제일약품)에 대해 제조업무정지 처분을 부과하는 등 의약품 및 의료 분야 전반에 걸친 품질 관리 및 규제 준수 압박을 높이고 있다.",
+        "news_ids": [
+          19,
+          21,
+          24,
+          27,
+          28,
+          37
+        ],
+        "news_links": [
+          {
+            "title": "“응급의료부터 스마트병동, 희귀질환까지”…정부 의료정책 ‘주목’",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265210",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265210_299593_299_v150.jpg"
+          },
+          {
+            "title": "참여 중심 ‘의료혁신위’ 본격 가동…위원장에 정기현 원장",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265277",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265277_299683_3125_v150.jpg"
+          },
+          {
+            "title": "의료혁신위 ‘정부 조언자’ 역할 강조…아젠다 미정",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265308",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265308_299693_5633_v150.jpg"
+          },
+          {
+            "title": "식약처, 자사기준서를 준수하지 않은 삼익제약(주)의 바로스타틴정40mg 등 17품목에 제조업무정지 1개월의 행정처분",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75258",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75258_49275_1031.png"
+          },
+          {
+            "title": "식약처, 자사기준서 미준수한 제일약품(주) ‘크라비트주’-‘플로목세프나트륨(제20091027-72-A-231-02호)'에 제조업무정지 1개월의 행정처분",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75257",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75257_49273_4119.png"
+          },
+          {
+            "title": "비대위, 약가제도 개편안 '전 회원사 CEO 대상 긴급 설문조사' 12일 마무리",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75248",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75248_49259_4615.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Digital Health Security and Infrastructure Focus",
+        "summary": "의료기관 및 공공기관은 정보보호 및 개인정보 유출 방지에 집중하며 인프라를 강화하고 있다. 특히 심사평가원은 외부 해킹 및 리도스 공격에 대비한 24시간 365일 보호 관제 체계를 구축했으며, 분당서울대병원은 정보보호 역량을 공식적으로 인정받았다.",
+        "news_ids": [
+          33,
+          55
+        ],
+        "news_links": [
+          {
+            "title": "\"외부의 해킹, 리도스 공격에 방어벽 '24시간 365일 보호 관제 체계' 구축\"",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75252",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75252_49263_947.png"
+          },
+          {
+            "title": "분당서울대병원, 대한민국 정보보호대상 단체부문 우수상",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75225",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75225_49227_3551.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Care Models and Chronic Disease Strategy",
+        "summary": "초고령사회에 대비하여 골다공증 골절 방지를 위한 국가 관리 체계 구축 정책 토론회가 예정되었으며, 지역사회 기반 통합돌봄 실현을 위한 핵심 요소로 재택 간호 중심 모델의 구축 필요성이 제기되어 고위험군 환자 관리 및 의료 전달 체계의 변화가 예상된다.",
+        "news_ids": [
+          34,
+          38
+        ],
+        "news_links": [
+          {
+            "title": "[행사]15일 김윤 의원실 주최 '초고령사회, 골다공증 골절 방지를 위한 국가관리체계 구축 정책토론회' 개최",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75251",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75251_49262_446.jpg"
+          },
+          {
+            "title": "“통합돌봄 앞둔 한국, ‘재택간호 중심 모델’ 구축 절실”",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75246",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75246_49256_3333.jpg"
+          }
+        ]
+      }
+    ]
   }
 }
