@@ -1,11 +1,11 @@
 {
   "2025-12-12": {
     "date": "2025-12-12",
-    "briefing": "미용 시장에서 주사형 재생의료 기술인 스킨부스터 경쟁이 격화되고 있으며, PLLA, PDRN, 그리고 인체 유래 무세포동종진피(hADM) 등 생체 적합성 및 조직 재생 유도 물질 기반의 제품 개발이 활발히 이루어지고 있어 3~4등급 삽입형 의료기기 소재 연구팀은 이들 신규 생체 재료의 동향을 면밀히 파악해야 합니다.",
+    "briefing": "주요 뉴스는 비삽입형 미용 시장(스킨부스터)에서의 조직 재생 유도 물질(PDRN, hADM 기반 ECM 부스터)의 상업적 성공에 집중되었으며, 동시에 식약처는 3~4등급 의료기기 개발에 중요한 글로벌 혁신 제품 신속 심사 대상을 명료화하고 디지털 헬스 규제를 정비하는 등 혁신 기술의 시장 진입 환경을 조성하고 있습니다.",
     "topics": [
       {
-        "title": "조직 재생 및 생체 적합성 소재 기술 동향 (Biomaterials/Tissue Regeneration)",
-        "summary": "스킨부스터 시장은 단순히 보습을 넘어 자가 콜라겐 생성을 유도하는 PLA 계열(쥬베룩), 세포외 기질(ECM) 복원을 목표로 하는 인체 유래 무세포동종진피(hADM) 기반 제품(엘라비에 리투오), 그리고 연어 유래 PDRN 등 조직 재생 및 세포 증식 기능을 가진 고기능성 생체 재료 중심으로 진화하고 있으며, 이는 3~4등급 삽입형 의료기기의 생체 적합성과 기능성을 높이는 핵심 기술 트렌드와 직결됩니다.",
+        "title": "조직 재생 유도 생체 소재(Biostimulator) 기술 성숙",
+        "summary": "자가 콜라겐 생성 유도 물질(쥬베룩, Juvelook), 고순도 PDRN(연어 DNA) 및 인체 유래 무세포동종진피(hADM) 기반 ECM 부스터(엘라비에 리투오) 등 다양한 기전의 조직 재생 촉진 소재가 미용 의료 시장의 핵심 동력으로 부상했습니다. 이는 고등급 삽입형 의료기기 분야에서 요구되는 생체 적합성 및 장기 조직 재생 유도 기술의 상용화 수준을 보여주며, 조직 통합(Tissue Integration) 목표에 대한 기술적 요구를 반영합니다.",
         "news_links": [
           {
             "title": "베일러의원 신사 강지민 원장, 쥬베룩 시술 누적 500바이알 달성",
@@ -13,53 +13,39 @@
             "image": null
           },
           {
+            "title": "물방울 초음파 효과 극대화…톰, 맞춤 스킨케어 '더 글로우' 앰플 6종 출시",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.newstap.co.kr/news/articleView.html%3Fidxno%3D318425&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3d-DFNHL1WBJQh-p3yA2VF",
+            "image": null
+          },
+          {
             "title": "겨울철 피부 노화 가속화…스킨부스터 시술 체크포인트",
-            "url": "https://news.nate.com/view/20251211n28136"
-          },
-          {
-            "title": "겨울철 심해지는 피부 건조증, 근본 원인은 'ECM 손상'…개선방법은?",
-            "url": "https://m.news.nate.com/view/20251212n11916"
-          },
-          {
-            "title": "앳홈 톰, 더글로우 뷰티 디바이스 전용 앰플 6종 선봬 - 네이트 뉴스",
-            "url": "https://news.nate.com/view/20251212n18889"
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nate.com/view/20251211n28136&ct=ga&cd=CAIyHDlmMmI0NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw2X8DqIC0cOqaARtgdcSFTO"
           }
         ]
       },
       {
-        "title": "미용 의료 시장의 투자 확대 및 M&A 동향 (Market/Investment)",
-        "summary": "필러와 함께 스킨부스터가 미용 의료 시장의 새로운 격전지로 부상하며 대형 사모펀드(PEF)의 투자 대상이 되고 있습니다. VIG파트너스가 LG화학 에스테틱 사업부를 인수한 후 볼트온 전략을 가속화하고 있으며, 이는 재생 기반 의료기기 및 에스테틱 분야의 시장 통합과 확장을 시사하며, 중장기적으로 스킨부스터 및 의료용 미용기기 분야의 성장이 기대됩니다.",
+        "title": "첨단 제형 및 약물 전달 시스템(DDS) 기술 개발 경쟁 심화",
+        "summary": "셀트리온이 히알루로니다제 기반의 피하주사(SC) 제형 전환 기술을 내재화하고 이를 바이오시밀러 및 CMO 사업에 확장하는 등, 고기능성 약물의 효율적인 전달 및 환자 편의성 개선을 위한 첨단 제형 기술 확보가 가속화되고 있습니다. 이는 삽입형 의료기기에 적용될 수 있는 약물 방출 조절 및 생체 내 안정성 확보 기술 개발에 중요한 참고 사항입니다.",
         "news_links": [
           {
-            "title": "VIG, 미용의료 '볼트온' 시동…프리드라이프 성공 모델 따를듯 [시그널INSIDE] | 서울경제",
-            "url": "https://www.sedaily.com/NewsView/2H1OU3RXUU"
-          },
-          {
-            "title": "피부 주사제로 여의도 '들썩'…\"전쟁 시작됐다\" - Daum",
-            "url": "https://v.daum.net/v/20251212082414551"
-          },
-          {
-            "title": "에이피알, 2분기 역대 최대 분기 실적 전망…목표가 47.8%↑-NH - MSN",
-            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/ko-kr/news/other/%25EC%2597%2590%25EC%259D%25B4%25ED%2594%25BC%25EC%2595%258C-2%25EB%25B6%2584%25EA%25B8%25B0-%25EC%2597%25AD%25EB%258C%2580-%25EC%25B5%259C%25EB%258C%2580-%25EB%25B6%2584%25EA%25B8%25B0-%25EC%258B%25A4%25EC%25A0%2581-%25EC%25A0%2584%25EB%25A7%259D-%25EB%25AA%25A9%25ED%2591%259C%25EA%25B0%2580-478-nh/ar-AA1Hhpck%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw12NK-4NfB5fGzfyJ0otyXs",
+            "title": "셀트리온, ‘히알루로니다제’ 기반 SC 전환 기술 내재화...‘허쥬마 SC’ 개발 순항",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75238",
             "image": null
           }
         ]
       },
       {
-        "title": "시술 병행 및 전달 시스템 최적화 (Delivery/Clinical Strategy)",
-        "summary": "스킨부스터의 임상적 활용은 단독 시술을 넘어 써마지 리프팅 등 에너지 기반 디바이스와의 복합 시술로 확장되고 있습니다. 또한, 효과적인 성분 전달을 위해 스피큘(미세침)을 이용한 앰플이나 물방울 초음파 디바이스를 결합하는 등 최소 침습 또는 비침습적 전달 시스템의 연구가 활발하며, 이는 삽입형 기기에서도 약물 전달 및 에너지 매칭 기술 개발의 중요성을 높이고 있습니다.",
+        "title": "혁신 의료기기 시장 진입 지원 및 디지털 헬스 규제 동향",
+        "summary": "식약처는 글로벌 혁신제품 신속 심사 지정 대상을 '심각한 중증질환' 중심으로 명료화하여 3~4등급을 포함한 고위험 혁신 의료제품의 시장 진입을 촉진하고 있습니다. 또한, 디지털 헬스산업 육성 특별법 발의 움직임은 향후 스마트 삽입형 기기에서 필수적인 개인건강정보의 안전한 활용과 관련된 규제 환경 변화를 예고합니다.",
         "news_links": [
           {
-            "title": "써마지 리프팅, 피부 상태에 맞춘 안전한 적용이 중요",
-            "url": "https://www.e-science.co.kr/news/articleView.html%3Fidxno%3D118455"
+            "title": "내년 글로벌 혁신제품 우선 신속 심사 지정 대상 '심각한 중증질환' 등 적용범위 명료화",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75232",
+            "image": null
           },
           {
-            "title": "물방울 초음파 효과 극대화…톰, 맞춤 스킨케어 '더 글로우' 앰플 6종 출시 - 뉴스탭",
-            "url": "https://www.newstap.co.kr/news/articleView.html%3Fidxno%3D318425"
-          },
-          {
-            "title": "[Google 알리미 - 스킨부스터] [데일리 산업 단신] 한진그룹, 인하대병원 어린이 환자 '가족 쉼터' 건립 外",
-            "url": "https://www.google.com/url?rct=j&sa=t&url=https://biz.newdaily.co.kr/svc/article_print.html%3Fno%3D2025121200202&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3dTUziFjC0aGX2SOAVxA_Q",
+            "title": "디지털헬스산업육성 특별법 발의에 산업계 “환영”",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034708",
             "image": null
           }
         ]
