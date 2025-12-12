@@ -124,5 +124,131 @@
         ]
       }
     ]
+  },
+  "2025-12-12_20-34": {
+    "date": "2025-12-12_20-34",
+    "briefing": "입력 데이터에 3~4등급 삽입형 의료기기에 대한 직접적인 언급은 부족하나, 정부의 글로벌 혁신제품 신속 심사 제도 명료화(59)와 디지털 헬스 산업 육성법(5) 발의 등 첨단 의료 기술의 시장 진입을 가속화하려는 정책 동향이 확인된다.",
+    "topics": [
+      {
+        "title": "규제 및 정책 환경 변화 (Regulation & Policy)",
+        "summary": "정부는 '디지털헬스산업 육성 특별법' 발의를 통해 융합 산업의 성장을 지원하고(5), 글로벌 혁신제품의 신속 심사 지정 대상 범위를 명료화하며 첨단 의료기기의 시장 진입을 촉진하고 있다(59). 반면, 도수치료 등에 대한 '관리급여' 전환(25, 26, 73) 및 상대가치점수 조정(34) 등 건강보험 재정 건전화 및 수가 개편 논의가 본격화되며 의료 서비스 제공 환경 전반에 구조적 변화를 예고하고 있다.",
+        "news_ids": [
+          5,
+          25,
+          26,
+          34,
+          59,
+          73
+        ],
+        "news_links": [
+          {
+            "title": "디지털헬스산업육성 특별법 발의에 산업계 “환영”",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034708",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034708_3037730_2957_v150.jpg"
+          },
+          {
+            "title": "국민 치료권 박탈 ‘관리급여’, 규제의 칼날일 뿐",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265284",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265284_299669_359_v150.jpg"
+          },
+          {
+            "title": "도수치료 관리급여 선정, “국민 위험에 빠뜨리는 배임 행위다”",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265305",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265305_299692_4657_v150.jpg"
+          },
+          {
+            "title": "정부, ‘상대가치점수 조정’ 본격시작…추진단 첫 회의",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265309",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265309_299696_644_v150.jpg"
+          },
+          {
+            "title": "내년 글로벌 혁신제품 우선 신속 심사 지정 대상 '심각한 중증질환' 등 적용범위 명료화",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75232",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75232_49236_138.png"
+          },
+          {
+            "title": "의협, 도수치료 등 정부 관리급여 선정 강행 강력 '유감'…헌법소원 등 강구할것",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75217",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75217_49223_4025.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "AI 및 디지털 헬스 기술 개발",
+        "summary": "AI 기반 연구개발(R&D)이 신약 분야(15, 66) 및 면역원성 예측(16)에 활발히 적용되고 있으며, 알츠하이머 혈액 기반 체외진단 시약(IVD)의 국내 독점 공급 계약(24)과 메타버스 기반 정신건강 선별 시스템 개발(56) 등 디지털 진단 및 평가 체계 구축이 가속화되고 있다. 이는 향후 고도화된 의료기기 개발에 필요한 정밀 진단 및 환자 모니터링 기반 기술로 활용될 잠재력이 크다.",
+        "news_ids": [
+          13,
+          15,
+          16,
+          24,
+          52,
+          56,
+          71
+        ],
+        "news_links": [
+          {
+            "title": "리가켐바이오, 루닛 전 CMO 옥찬영 박사 영입",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034651",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034651_3037665_731_v150.jpg"
+          },
+          {
+            "title": "목암생명과학연구소, AI 학회 '뉴립스'에 논문 등재",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034652",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034652_3037666_943_v150.jpg"
+          },
+          {
+            "title": "갤럭스-서울대, 면역원성 예측 모델 ‘T-SCAPE’ 개발",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034650",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034650_3037664_339_v150.jpg"
+          },
+          {
+            "title": "이모코그–美 퀀터릭스, 알츠하이머 선별검사 플랫폼 국내 공급 계약",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034608",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034608_3037616_1724_v150.jpg"
+          },
+          {
+            "title": "GC(녹십자홀딩스), 베트남 하노이에 ‘GC&PHENIKAA 헬스케어 센터’ 공식 출범",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75241",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75241_49250_5926.jpg"
+          },
+          {
+            "title": "고려대·서울대·ETRI 등 산학연 컨소시엄, 메타버스 기반 정신건강 고위험군 선별 기술 개발 성과 발표",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75237",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75237_49245_3226.jpg"
+          },
+          {
+            "title": "한국한의약진흥원, 한의약 표준 EMR 고도화 등 임상데이터 활용성 확대 지원",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75221",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75221_49225_338.png"
+          }
+        ]
+      },
+      {
+        "title": "R&D 플랫폼 및 글로벌 시장 전략",
+        "summary": "바이오 기업들은 히알루로니다제 기반 SC(피하주사) 제형 전환 기술 내재화(55)와 같은 차별화된 플랫폼 기술 확보에 주력하고 있다. 또한, 첨단재생의료 분야의 특허 획득(18) 및 JPM 헬스케어 컨퍼런스 발표자 명단 포함(19) 등 국내 기업들이 지식재산권과 글로벌 파트너십을 통해 중장기적 성장 동력을 강화하고 있다.",
+        "news_ids": [
+          18,
+          19,
+          55
+        ],
+        "news_links": [
+          {
+            "title": "﻿루카스바이오, 지식재산처장상 수상…\"특허 19건 획득\"",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034648",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034648_3037662_5615_v150.jpg"
+          },
+          {
+            "title": "내년 JPM 헬스케어 컨퍼런스에 韓기업 5곳 공식 발표자로 나선다",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034626",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034626_3037636_2648_v150.jpg"
+          },
+          {
+            "title": "셀트리온, ‘히알루로니다제’ 기반 SC 전환 기술 내재화...‘허쥬마 SC’ 개발 순항",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75238",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75238_49246_4151.jpg"
+          }
+        ]
+      }
+    ]
   }
 }
