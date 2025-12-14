@@ -324,5 +324,125 @@
         ]
       }
     ]
+  },
+  "2025-12-14_12-23": {
+    "date": "2025-12-14_12-23",
+    "briefing": "첨단 바이오 산업은 국내 최초 유전자 재조합 인간형 타입 III 콜라겐 개발 성공을 통해 차세대 바이오 소재 혁신을 예고하고 있으며, 동시에 디지털 헬스케어 특별법 발의와 AI 기술을 활용한 신약 개발 인프라 구축에 집중하는 모습입니다.",
+    "topics": [
+      {
+        "title": "차세대 바이오 소재 및 스킨부스터 시장 경쟁 심화",
+        "summary": "국내 바이오 기업이 의료기기 및 필러 시장 확장이 가능한 유전자 재조합 인간형 타입 III 콜라겐(rH-Col3) 개발에 성공하며 첨단 소재 경쟁력을 강화하고 있다. 한편, 엑소좀 기반 제품과 자가 콜라겐 생성을 촉진하는 스킨부스터 제품들이 피부미용 시장의 주요 격전지로 떠오르며 경쟁이 가열되고 있다.",
+        "news_ids": [
+          2,
+          3,
+          4,
+          5,
+          48
+        ],
+        "news_links": [
+          {
+            "title": "피부 주사제로 여의도 ＇들썩＇…＂전쟁 시작됐다＂ - 한국경제TV",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://m.wowtv.co.kr/NewsCenter/News/Read%3FarticleId%3DA202512110483&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0UdnnV55wdcZPBLq8XWjoX",
+            "image": null
+          },
+          {
+            "title": "'한국 최초 유전자 재조합 인간형 콜라겐 타입Ⅲ' 개발 성공 - 개미신문",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=http://www.antnews.org/news/410874&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw2xa462XfH4WpWg-zJczB7s",
+            "image": null
+          },
+          {
+            "title": "브라이트피부과의원 김태한 원장, 쥬베룩 시술 누적 500바이알 달성 - 이로운넷",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.eroun.net/news/articleView.html%3Fidxno%3D69021&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0SAVsr9bJk8t3SAIUEMUiq",
+            "image": null
+          },
+          {
+            "title": "'닥터스피지에이 로즈 엑소 <b>부스터</b>' 미백 효능 임상 입증 - MSN",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/ko-kr/news/other/%25EB%258B%25A5%25ED%2584%25B0%25EC%258A%25A4%25ED%2594%25BC%25EC%25A7%2580%25EC%2597%2590%25EC%259D%25B4-%25EB%25A1%259C%25EC%25A6%2588-%25EC%2597%2591%25EC%2586%258C-%25EB%25B6%2580%25EC%258A%25A4%25ED%2584%25B0-%25EB%25AF%25B8%25EB%25B0%25B1-%25ED%259A%25A8%25EB%258A%25A5-%25EC%259E%2584%25EC%2583%2581-%25EC%259E%2585%25EC%25A6%259D/ar-AA1QS0US%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3aBiJKEPBX26GnaZFCOU8D",
+            "image": null
+          },
+          {
+            "title": "'한국 최초 유전자 <b>재조합</b> 인간형 <b>콜라겐</b> 타입Ⅲ' 개발 성공 - 개미신문",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=http://www.antnews.org/news/410874&ct=ga&cd=CAIyHGQ0MDhlNGNlNDEyMzMzZTI6Y28ua3I6a286S1I&usg=AOvVaw2xa462XfH4WpWg-zJczB7s",
+            "image": null
+          }
+        ]
+      },
+      {
+        "title": "디지털 헬스 및 AI R&D 인프라 구축",
+        "summary": "디지털 헬스산업 육성 및 개인건강정보 활용을 위한 특별법안 발의가 산업계의 환영을 받고 있다. 이와 함께 카카오헬스케어는 연속혈당측정기(CGM) 등 의료기기 유통을 통한 매출 기반 사업구조로 재편 중이며, 신약 개발 분야에서는 AI를 활용한 면역원성 예측 모델(T-SCAPE) 개발과 중개연구(TR) 전문가 영입을 통해 R&D 역량을 강화하고 있다.",
+        "news_ids": [
+          6,
+          7,
+          15,
+          17,
+          18,
+          45
+        ],
+        "news_links": [
+          {
+            "title": "카카오헬스케어, 지분 재편 이후 '매출 중심' 사업전환 속도",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034705",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034705_3037740_434_v150.jpg"
+          },
+          {
+            "title": "디지털헬스산업육성 특별법 발의에 산업계 “환영”",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034708",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034708_3037730_2957_v150.jpg"
+          },
+          {
+            "title": "리가켐바이오, 루닛 전 CMO 옥찬영 박사 영입",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034651",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034651_3037665_731_v150.jpg"
+          },
+          {
+            "title": "목암생명과학연구소, AI 학회 '뉴립스'에 논문 등재",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034652",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034652_3037666_943_v150.jpg"
+          },
+          {
+            "title": "갤럭스-서울대, 면역원성 예측 모델 ‘T-SCAPE’ 개발",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034650",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034650_3037664_339_v150.jpg"
+          },
+          {
+            "title": "\"외부의 해킹, 리도스 공격에 방어벽 '24시간 365일 보호 관제 체계' 구축\"",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75252",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75252_49263_947.png"
+          }
+        ]
+      },
+      {
+        "title": "고가 바이오의약품 경쟁 및 ESG 경영 강화",
+        "summary": "황반변성 치료제 아일리아 바이오시밀러 시장에서 3파전이 본격화되며 경쟁이 치열해지고 있다. 한편, 삼성바이오로직스가 CDP 수자원관리 부문 A등급을 획득하고 셀트리온제약이 ESG 위원회를 공식 출범하는 등 주요 바이오 기업들이 지속가능 경영과 대외 투명성 확보에 주력하고 있다.",
+        "news_ids": [
+          9,
+          12,
+          19,
+          47
+        ],
+        "news_links": [
+          {
+            "title": "롯데바이오로직스, 미래 혁신기술 육성 기술 개발 포럼 개최",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034702",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034702_3037724_3714_v150.jpg"
+          },
+          {
+            "title": "아일리아 바이오시밀러 3파전…약가·도입 속도 경쟁 가열",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034687",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034687_3037705_252_v150.jpg"
+          },
+          {
+            "title": "삼성바이오, CDP 평가서 수자원관리 부문 'A등급' 획득",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034649",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034649_3037663_058_v150.jpg"
+          },
+          {
+            "title": "셀트리온제약, ‘ESG 위원회’ 공식 출범...지속가능경영 강화 본격화",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75250",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75250_49261_5650.png"
+          }
+        ]
+      }
+    ]
   }
 }
