@@ -88,5 +88,217 @@
         ]
       }
     ]
+  },
+  "2025-12-16_15-50": {
+    "date": "2025-12-16_15-50",
+    "briefing": "고난도 수술 로봇 및 인공지능(AI) 기반 진단 시스템이 고도화되는 가운데, 펩타이드 및 ADC 같은 첨단 바이오 신약 기술이 대규모 기술 수출에 성공했으며, 규제 당국은 신의료기기 허가 심사 속도를 높이는 등 산업 활성화 움직임을 보였습니다.",
+    "topics": [
+      {
+        "title": "첨단 재생의학 및 고위험 삽입 기기",
+        "summary": "AI 기반 연골 재생 기술의 글로벌 임상이 확대되고 있으며, 줄기세포 치료제(조인트스템)가 중증 무릎 관절염 환자 대상 장기 효능(5년)을 입증했습니다. 또한, 고난도 심장 이식 분야에서 좌심실 보조 장치(LVAD) 치료를 통한 생존율 향상 가능성이 제기되었으며, 가정 및 의료 환경에 특화된 휴머노이드 로봇 연구 개발이 착수되었습니다.",
+        "news_ids": [
+          90,
+          101,
+          196,
+          220,
+          231,
+          244,
+          255
+        ],
+        "news_links": [
+          {
+            "title": "한림대성심병원, ‘가정·의료 환경 특화 휴머노이드 로봇’ 연구개발 착수",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/16/2025121602049.html",
+            "image": "https://health.chosun.com/site/data/img_dir/2025/12/16/2025121602038_0.jpg"
+          },
+          {
+            "title": "단일공 다빈치 로봇수술기, 고난도 간담췌암 수술 시간 단축",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/16/2025121601369.html",
+            "image": "https://health.chosun.com/site/data/img_dir/2025/12/16/2025121601358_0.jpg"
+          },
+          {
+            "title": "과기정통부, 난치질환 정복 위해 한국형 문샷 사업 추진",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568495",
+            "image": null
+          },
+          {
+            "title": "네이처셀, '조인트스템' 중증 무릎관절염서 5년 효과 입증",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568472",
+            "image": null
+          },
+          {
+            "title": "로킷헬스케어, AI 기반 연골 재생 글로벌 임상 확대",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568459",
+            "image": null
+          },
+          {
+            "title": "계명대 동산병원, 고형암 로봇수술 비교 연구 국제학술지 게재",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265715",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265715_300106_735_v150.jpg"
+          },
+          {
+            "title": "심장이식, 맞춤형 전략 필요···‘LVAD 치료’ 생존율 향상 가능성",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265687",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265687_300074_928_v150.jpg"
+          }
+        ]
+      },
+      {
+        "title": "AI 기반 수술 및 진단 시스템",
+        "summary": "AI 기반 혈액 분석 솔루션이 해외(루마니아) 수출에 성공했으며, 국내 병원에서는 AI 기반 스마트 병상 모니터링 시스템(씽크) 도입을 확대하고 있습니다. 또한, 루닛은 다이이찌산쿄와 항암 신약 개발에 AI 바이오마커 플랫폼을 적용하기로 협력했고, 혈액 기반 알츠하이머 치매 조기 진단 기술의 정확도가 높게 나타났습니다.",
+        "news_ids": [
+          17,
+          19,
+          170,
+          174,
+          182,
+          228,
+          229,
+          267
+        ],
+        "news_links": [
+          {
+            "title": "루닛 \"다이이찌산쿄와 항암 신약 AI 바이오마커 발굴\"",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034783",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034783_3037816_3510_v150.jpg"
+          },
+          {
+            "title": "연세새로운병원, AI 병상 모니터링 ‘씽크’ 도입",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034777",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034777_3037809_1255_v150.jpg"
+          },
+          {
+            "title": "나노엔텍, 유투바이오·AAI헬스케어와 커넥티드 헬스케어 협약 체결",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568521",
+            "image": null
+          },
+          {
+            "title": "루닛, 다이이찌산쿄와 손잡고 항암 신약 바이오마커 발굴",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568516",
+            "image": null
+          },
+          {
+            "title": "경기 여주 연세새로운병원, AI 병상 모니터링 ‘씽크’ 도입",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568509",
+            "image": null
+          },
+          {
+            "title": "노을, 루마니아와 AI 혈액 분석 솔루션 공급 계약 체결",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568464",
+            "image": null
+          },
+          {
+            "title": "미래컴퍼니, 몽골 국립암센터에 수술로봇 레보아이 설치 개시",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568462",
+            "image": null
+          },
+          {
+            "title": "피 한 방울로 알츠하이머 치매 94% 잡아낸다",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265678",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265678_300067_2723_v150.jpg"
+          }
+        ]
+      },
+      {
+        "title": "바이오 신약 및 ADC 기술 개발",
+        "summary": "국내 기업이 알츠하이머 신약 후보물질을 사노피에 약 1.5조원 규모로 기술 수출하는 쾌거를 달성했으며, 펩타이드 기반 장기지속형 의약품 생산을 위한 대규모 신공장 건축이 승인되었습니다. 또한, 항체-약물 접합체(ADC) CDMO 전주기 시스템 구축을 위한 연구센터가 개소되었고, 삼성바이오에피스는 ADC 특허 리스크에 선제적으로 대응하기 위해 중국 기술을 도입했습니다.",
+        "news_ids": [
+          14,
+          15,
+          29,
+          103,
+          130,
+          147,
+          150,
+          154
+        ],
+        "news_links": [
+          {
+            "title": "코오롱생명과학, KLS-3021 대량 생산기술 특허 日 등록",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034784",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034784_3037817_3746_v150.jpg"
+          },
+          {
+            "title": "펩트론, 펩타이드 기반 장기지속형 의약품 신공장 건축 허가 승인",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034785",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034785_3037818_4034_v150.jpg"
+          },
+          {
+            "title": "﻿경보제약, ADC 연구센터 개소…\"ADC CDMO 전주기 시스템 구축\"",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034739",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034739_3037767_235_v150.jpg"
+          },
+          {
+            "title": "아델, 사노피에 ‘알츠하이머 신약​’​ 기술 수출… 1.5兆 규모​",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/16/2025121601159.html",
+            "image": "https://health.chosun.com/site/data/img_dir/2025/12/16/2025121601148_0.jpg"
+          },
+          {
+            "title": "삼성에피스, 中 기술 도입으로 ADC 특허 리스크 선제 대응",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568558",
+            "image": null
+          },
+          {
+            "title": "코오롱생명과학, 항암제 생산 기술 일본 특허 등록",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568546",
+            "image": null
+          },
+          {
+            "title": "펩트론, 오송에 장기지속형 의약품 생산 신공장 건설 승인",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568540",
+            "image": null
+          },
+          {
+            "title": "오스코텍, 알츠하이머 신약 후보물질 사노피에 1.5조 규모 기술이전",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568539",
+            "image": null
+          }
+        ]
+      },
+      {
+        "title": "규제 환경 및 글로벌 시장 확장",
+        "summary": "식약처는 신의료기기에 대해 세계 최단 수준인 240일 허가를 목표로 심사 혁신을 추진하고, 의료기기 전자민원 시스템 개편을 통해 산업 지원을 강화하고 있습니다. 한편, 미용 의료기기(RF, 플라즈마 장비)는 태국 및 대만 등 아시아 시장으로 활발하게 진출하고 있으나, 수입 의료기기의 GMP 정기 심사 미이행에 따른 행정처분 사례도 발생했습니다.",
+        "news_ids": [
+          64,
+          65,
+          132,
+          246,
+          250,
+          272
+        ],
+        "news_links": [
+          {
+            "title": "<b>의료기기</b>전자민원시스템 대폭 개편…&quot;신생·소규모 업체 어려움 해소&quot; - 뉴스1",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.news1.kr/bio/general/6009791&ct=ga&cd=CAIyHGNhNTA4ZTM3ZDIxM2JkNjM6Y29tOmtvOlVTOkw&usg=AOvVaw2wPu0v3wmW7vdhlqiSQiyr",
+            "image": null
+          },
+          {
+            "title": "<b>의료기기</b>전자민원시스템 사용자 편의성 대폭 개선",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.korea.kr/common/download.do%3FfileId%3D198300321%26tblKey%3DGMN&ct=ga&cd=CAIyHGNhNTA4ZTM3ZDIxM2JkNjM6Y29tOmtvOlVTOkw&usg=AOvVaw0jGzP5hDX7BrU-VWdQEWJQ",
+            "image": null
+          },
+          {
+            "title": "식약처, 큐렉소에 수입업무 3개월 정지 처분",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568560",
+            "image": null
+          },
+          {
+            "title": "쉬엔비, 대만서 ‘2025 듀얼 에너지의 새로운 장’ 행사 성료",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265712",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265712_300103_3520_v150.jpg"
+          },
+          {
+            "title": "\"세계에서 가장 빠르게 의약품 허가\"",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265706",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265706_300101_5958_v150.jpg"
+          },
+          {
+            "title": "울트라브이, 독자적 기술 개발 '트라이덤 ·에어샤인' 태국서 승인 받아",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265682",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265682_300066_2154_v150.jpg"
+          }
+        ]
+      }
+    ]
   }
 }
