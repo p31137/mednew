@@ -464,5 +464,307 @@
         ]
       }
     ]
+  },
+  "2025-12-17_06-39": {
+    "date": "2025-12-17_06-39",
+    "briefing": "고위험군 의료기기 및 첨단 재생의학 분야에서는 AI 플랫폼 기반 당뇨발 재생 치료 임상 진입이 본격화되고 있으며, 미용 의료 시장에서는 뷰티 디바이스와 스킨 부스터를 중심으로 해외 시장 성과가 두드러지고 있습니다.",
+    "topics": [
+      {
+        "title": "Advanced Regenerative Medicine & Biomaterials",
+        "summary": "AI 기반 장기 재생 플랫폼(당뇨발)의 국내 임상 진출이 시동을 걸었으며, 줄기세포를 활용한 세포치료제 공동 연구개발(다림바이오텍) 및 자가연골세포치료제의 임상 적용 확대 등 재생의학 분야의 진전이 확인됩니다. 또한, 특허 기반의 hADM 및 PLLA 하이브리드 부스터 등 생체 재료를 활용한 신규 미용 제품 출시도 활발합니다.",
+        "news_ids": [
+          12,
+          13,
+          15,
+          16,
+          17,
+          18,
+          37,
+          76,
+          251
+        ],
+        "news_links": [
+          {
+            "title": "케어젠, 안구건조증 치료 펩타이드 'CG-T1' 31개국 특허 출원 - 바이오타임즈",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.biotimes.co.kr/news/articleView.html%3Fidxno%3D25943&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3ZB1bOFwua3cDibwiIPPzA",
+            "image": null
+          },
+          {
+            "title": "밸류업큐레이션, vieReve PLLA 하이브리드 <b>부스터</b> 출시 - 비건뉴스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.vegannews.co.kr/news/article.html%3Fno%3D380658&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3IpN_lrgfaa_V3ojvI0cQE",
+            "image": null
+          },
+          {
+            "title": "메드파크, 특허기반 MPT 기술로 완성한 hADM <b>스킨부스터</b> '아디떼' 출시 - 메디컬투데이",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.mdtoday.co.kr/news/view/1065597934432372&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0DXt09mq2S5FjG77tFZGVR",
+            "image": null
+          },
+          {
+            "title": "메드파크, 특허기반 MPT 기술로 완성한 hADM <b>스킨부스터</b> '아디떼' 출시 - 네이트 뉴스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nate.com/view/20251216n29169&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3raY1E-00u_D-Fm_zfARbX",
+            "image": null
+          },
+          {
+            "title": "재생의학 기술로 차별화…메드파크, 프리미엄 <b>스킨부스터</b> 시장 공략 | - 메디칼트리뷴",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=http://www.medical-tribune.co.kr/news/articleViewAmp.html%3Fidxno%3D212184&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw2wy0CIKiGkPVstY3tW0Vpy",
+            "image": null
+          },
+          {
+            "title": "[특징주]삼익제약, 장중 급등 후 되밀리며 보합 마감 - 바이오타임즈",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=http://www.biotimes.co.kr/news/articleView.html%3Fidxno%3D25963&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0-mBkxxAZshl6KsB7UXIkX",
+            "image": null
+          },
+          {
+            "title": "바이오솔루션-세종스포츠정형외과, ‘연골재생–스포츠재활’ 협력",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034754",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034754_3037785_4852_v150.jpg"
+          },
+          {
+            "title": "다림바이오텍, 울산대병원과 ‘중간엽 줄기세포 치료제’ 공동 개발 계약",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/17/2025121702407.html",
+            "image": "https://health.chosun.com/site/data/img_dir/2025/12/17/2025121702403_0.jpg"
+          },
+          {
+            "title": "로킷헬스케어, ‘AI 당뇨발 재생 플랫폼’ 국내 확산 시동",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265797",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265797_300189_5136_v150.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Aesthetics Market Expansion & Delivery Systems",
+        "summary": "미용 시장에서는 에이피알의 뷰티 디바이스 '부스터 프로'가 일본 온라인 행사에서 기록적인 매출을 달성하는 등 해외 시장 고성장이 핵심 트렌드입니다. 파마리서치(리쥬란)에 대한 모건스탠리의 대규모 투자와 NMN 스킨부스터 도입 등 신규 성분 및 전문 시술 제품에 대한 시장의 관심 및 기업 가치가 상승하고 있습니다.",
+        "news_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          14,
+          19,
+          20
+        ],
+        "news_links": [
+          {
+            "title": "에이지알 '<b>부스터</b> 프로', 日 메가와리 뷰티 카테고리 1위 - 네이트 뉴스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nate.com/view/20251217n24930%3Fmid%3Dn0100&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0N1TLpYesf6hhUk3MbLx8t",
+            "image": null
+          },
+          {
+            "title": "청담 연세아르미안의원, NMN <b>스킨부스터</b> '나드샷 NMN X' 도입 - 서울타임즈뉴스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.seoultimes.news/news/article.html%3Fno%3D2000087802&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw1GXAa21SBcLBP6i3nFWV-y",
+            "image": null
+          },
+          {
+            "title": "제테마, 해외서 '성과 릴레이'…사업 확장 속도 낸다 - 컨슈머타임스(Consumertimes)",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.cstimes.com/news/articleView.html%3Fidxno%3D684051&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw1W3b1nQf4zqXPLrYS10vTv",
+            "image": null
+          },
+          {
+            "title": "주가 반토막 났는데… 파마리서치 2대주주로 깜짝 등장한 모건스탠리 - 조선비즈",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://biz.chosun.com/stock/stock_general/2025/12/17/7LGOAC5VDVCYVPAKYCHJU27D4Q/&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw2vL62VBSrpveydqr1krEGX",
+            "image": null
+          },
+          {
+            "title": "에이피알 &quot;일본 큐텐 할인 행사서 매출 180% 증가&quot; - 연합뉴스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.yna.co.kr/view/AKR20251217050700030&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw01z5RZQ4aWJNgRnFicLJSu",
+            "image": null
+          },
+          {
+            "title": "에이피알, 日 큐텐 온라인 행사서 고성장…'<b>부스터</b>프로' 1위 등극 - 네이트 뉴스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://m.news.nate.com/view/20251217n07622&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0gmfCKF-hT5yGemww9wYLj",
+            "image": null
+          },
+          {
+            "title": "에이피알, 日 큐텐 온라인 행사서 고성장…'<b>부스터</b>프로' 1위 등극 - 뉴시스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.newsis.com/view/NISX20251217_0003444087&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw1js8E_0Cq-eBr3hNUmtrPH",
+            "image": null
+          },
+          {
+            "title": "에이피알, 日 '메가와리' 앞세워 고성장…연말 '기대 이상' 실적 - 라이센스뉴스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.lcnews.co.kr/news/articleView.html%3Fidxno%3D119043&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3jgN7Hzs2vsBrUg3ueCvaI",
+            "image": null
+          },
+          {
+            "title": "에이피알, 4분기 日 메가와리 매출 전년비 180% 성장 - 지디넷코리아",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://zdnet.co.kr/view/%3Fno%3D20251217084527&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3FmOXSGT7a2_yG1jIa3D_g",
+            "image": null
+          },
+          {
+            "title": "파마리서치 대주주 오른 모건스탠리… 이유는 [Why 바이오] - 서울경제",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.sedaily.com/NewsView/2H1RJ5LAPW&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0UIvjPNGHa28_j11ObaPzz",
+            "image": null
+          },
+          {
+            "title": "씨엠에스랩, 육군사관학교∙국군간호사관학교·특수전학교에 1억 상당 제품 기부 - 스마트에프엔",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.smartfn.co.kr/news/articleView.html%3Fidxno%3D129605&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0dC5tBpvX6M8Jpktg1RMBu",
+            "image": null
+          },
+          {
+            "title": "씨엠에스랩, 육군‧국군간호사관학교에 1억원 상당 화장품 기부 - 코스모닝",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.cosmorning.com/news/article.html%3Fno%3D51842&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw3YVe40Le8QpA_-Xu-SiUfP",
+            "image": null
+          },
+          {
+            "title": "씨엠에스랩, 육군∙국군간호사관학교 등에 1억원 상당 제품 기부 - 시장경제",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.meconomynews.com/news/articleView.html%3Fidxno%3D124921&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0dtu8W4xPE8unz8hM3VdxN",
+            "image": null
+          },
+          {
+            "title": "엔비유의원, 2025 대한리프팅학회 추계학술대회서 리프팅 관련 강연 - 팜뉴스",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.pharmnews.com/news/articleView.html%3Fidxno%3D300332&ct=ga&cd=CAIyHDlmMmI1NDY4YzgxYWUwOTg6Y29tOmtvOlVTOkw&usg=AOvVaw0UdWtHt8PyWkJBWRFjyfZ9",
+            "image": null
+          }
+        ]
+      },
+      {
+        "title": "Strategic Pharmaceutical R&D and Global Commercialization",
+        "summary": "휴온스가 GLP-1 계열 비만 치료제 합성 펩타이드 후보물질의 국내 임상 1상에 착수하는 등 비만 치료제 개발 경쟁이 심화되고 있습니다. 한편, HK이노엔의 케이캡 일본 사업권 인수, 셀트리온의 골다공증 치료제 유럽 출격 등 블록버스터 약물의 글로벌 시장 확장 전략이 활발하며, 온코닉테라퓨틱스는 항암 신약 후보물질 임상 1b/2상 승인을 받았습니다.",
+        "news_ids": [
+          22,
+          36,
+          62,
+          77,
+          128,
+          166,
+          167,
+          170,
+          187,
+          189,
+          230,
+          272
+        ],
+        "news_links": [
+          {
+            "title": "휴온스, 비만 치료물질 'HUC2-676' 1상 IND 승인",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034826",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034826_3037862_159_v150.jpg"
+          },
+          {
+            "title": "HK이노엔, '케이캡' 日사업권 및 라퀄리아 지분 인수",
+            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3034755",
+            "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202512/3034755_3037786_561_v150.jpg"
+          },
+          {
+            "title": "HK이노엔, 신약개발기업 라퀄리아로부터 ‘케이캡’ 日 사업권-신주 인수",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75285",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75285_49319_301.jpg"
+          },
+          {
+            "title": "휴온스, 비만 치료제 ‘HUC2-676’ 국내 임상 1상 IND 승인​",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/17/2025121702397.html",
+            "image": "https://health.chosun.com/site/data/img_dir/2025/12/17/2025121702393_0.jpg"
+          },
+          {
+            "title": "셀트리온 골다공증 치료제‘스토보클로’스페인 선제 출격",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568653",
+            "image": null
+          },
+          {
+            "title": "온코닉테라퓨틱스, 전이성 위암 공략 본격화… ‘네수파립’ 임상 1b/2상 진입",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568613",
+            "image": null
+          },
+          {
+            "title": "휴온스, 비만 치료제 ‘HUC2-676’ 국내 임상 1상 IND 승인 획득",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568614",
+            "image": null
+          },
+          {
+            "title": "온코닉테라퓨틱스, 전이성 위암 공략 본격화",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568608",
+            "image": null
+          },
+          {
+            "title": "온코닉테라퓨틱스, '네수파립' 재발·전이성 위암 대상 임상 1b/2상 시험계획 식약처 승인 획득",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568592",
+            "image": null
+          },
+          {
+            "title": "휴온스, 비만 치료제 HUC2-676 임상 1상 착수",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568587",
+            "image": null
+          },
+          {
+            "title": "셀트리온, 안과질환 치료제 유럽 시장 본격 진출",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568545",
+            "image": null
+          },
+          {
+            "title": "휴온스, 합성 펩타이드 비만 치료제 임상 1상 IND 승인",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265760",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265760_300154_1454_v150.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Essential Healthcare and Reimbursement Policy",
+        "summary": "대통령이 탈모 및 비만 치료제의 건강보험 급여 적용 가능성 검토를 지시하면서 보험 적용 범위 확대에 대한 사회적 논의가 촉발되었습니다. 또한, 부산 소아 응급실 뺑뺑이 사례와 야간 수술 인프라 부족 문제 등이 부각되며 지역 및 필수 의료 붕괴 방지를 위한 정책적 개편(국립대병원 육성, 지역의사제 도입 논의) 마련이 시급한 과제로 떠올랐습니다.",
+        "news_ids": [
+          41,
+          42,
+          45,
+          54,
+          96,
+          104,
+          191,
+          242,
+          269
+        ],
+        "news_links": [
+          {
+            "title": "李 대통령, ‘필수의료 보상 정상화’-'특사경' 도입 주문",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265691",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265691_300077_1711_v150.jpg"
+          },
+          {
+            "title": "복지부, '지역·필수의료 강화' 중심 대통령에 업무보고",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265681",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265681_300064_1515_v150.jpg"
+          },
+          {
+            "title": "李 대통령, ‘탈모약·비만약 급여 여부 검토’ 지시",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265709",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265709_300098_4528_v150.jpg"
+          },
+          {
+            "title": "이 대통령, \"생존의 문제 청년 탈모·비만 치료 제도권 진입\"주문VS복지부 \"검토할 것\"",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75294",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75294_49329_4258.png"
+          },
+          {
+            "title": "부산서 ‘응급실 뺑뺑이’ 반복… 병원 12곳서 10세 여아 수용 거절",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/17/2025121701250.html",
+            "image": "https://health.chosun.com/site/data/img_dir/2025/12/17/2025121701247_0.jpg"
+          },
+          {
+            "title": "李 대통령 “탈모, 생존의 문제… 치료제 보험 적용 검토하라”",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/17/2025121701100.html",
+            "image": "https://health.chosun.com/site/data/img_dir/2025/12/17/2025121701097_0.jpg"
+          },
+          {
+            "title": "정부 “야간 복막염 수술 병원 5곳뿐이라는 주장은 사실 아냐”",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568589",
+            "image": null
+          },
+          {
+            "title": "의협 “정부 특사경·한방급여 재검토해야”",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265814",
+            "image": "http://www.bosa.co.kr/image/logo/snslogo_20210311040859.jpg"
+          },
+          {
+            "title": "소아 응급실 뺑뺑이 재연 방지 정책 마련 시급하다",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265796",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265796_300188_3914_v150.jpg"
+          }
+        ]
+      }
+    ]
   }
 }
