@@ -300,5 +300,169 @@
         ]
       }
     ]
+  },
+  "2025-12-17_04-21": {
+    "date": "2025-12-17_04-21",
+    "briefing": "고등급 의료기기 산업은 재생 의학 바이오소재, 첨단 수술 로봇 및 AI 기술의 통합을 통해 혁신적인 성과를 내고 있으나, 한편으로는 제조 품질 관리(GMP) 미준수 사례가 적발되는 등 규제 준수 강화 필요성이 대두되고 있습니다.",
+    "topics": [
+      {
+        "title": "첨단 재생의료 및 바이오소재 개발",
+        "summary": "줄기세포 및 재생의학 기반의 혁신적인 기술 개발과 임상 진입이 활발합니다. 특히 인체 태반 유래 줄기세포를 활용한 치료제 공동 연구 개발 협약, 자가 지방조직 유래 성분을 활용한 안구함몰 치료 연구, AI 기반 당뇨발 재생 플랫폼의 국내 임상 돌입이 주목됩니다. 또한 재생의료 전문기업이 2천만불 수출의 탑을 수상하며 글로벌 시장에서의 성과를 입증했습니다.",
+        "news_ids": [
+          75,
+          84,
+          108,
+          144,
+          246,
+          271
+        ],
+        "news_links": [
+          {
+            "title": "Global Spotlight｜POGMENT Biomimetic <b>Collagen</b> &quot;Stable Triple Helix&quot; Breakthrough Stuns ...",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://kyodonewsprwire.jp/release/202512151019&ct=ga&cd=CAIyHDAwNDlmMDFhYjlmNjFkYjI6Y29tOmtvOlVTOkw&usg=AOvVaw1yB4vGTjgmOw0gtr3LaO2D",
+            "image": null
+          },
+          {
+            "title": "분당차병원, 안구함몰 환자 치료 첨단재생의료 임상연구 국책과제 선정",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/17/2025121701342.html",
+            "image": "https://health.chosun.com/site/data/img_dir/2025/12/17/2025121701339_0.jpg"
+          },
+          {
+            "title": "중장년 무릎 관절염, 통증·불편함 유발… 연골 재생 돕는 '줄기세포 치료' 주목",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/16/2025121602236.html",
+            "image": "https://health.chosun.com/site/data/thumb_dir/2025/12/16/2025121602225_0_thumb.jpg"
+          },
+          {
+            "title": "로킷헬스케어, 11개 병원과 AI 당뇨발 재생 임상 돌입",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568621",
+            "image": null
+          },
+          {
+            "title": "울산대병원-다림바이오텍, 줄기세포 치료제 개발 업무협약",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265799",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265799_300191_5428_v150.jpg"
+          },
+          {
+            "title": "시지바이오, ‘2,000만불 수출의 탑’ 수상 영예",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265776",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265776_300166_2929_v150.jpg"
+          }
+        ]
+      },
+      {
+        "title": "고위험 삽입형 의료기기 및 중재적 시술",
+        "summary": "서맥성 부정맥 치료를 위한 인공심박동기 삽입과 전립선비대증 치료를 위한 특수 금속실(결찰사)을 이용한 최소 침습 치료 등 고위험군 환자를 위한 삽입형 의료기기 활용이 확인됩니다. 또한 급성 뇌경색 환자를 위한 재관류치료 뇌졸중센터 인증 획득 소식은 중증 응급 질환 대응 능력이 강화되고 있음을 보여줍니다.",
+        "news_ids": [
+          92,
+          99,
+          123,
+          256
+        ],
+        "news_links": [
+          {
+            "title": "\"특수 금속실(결찰사)로 묶어서 '전립선비대증' 치료… 효과 빠르고 안전해\"",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/16/2025121601758.html",
+            "image": "https://health.chosun.com/site/data/thumb_dir/2025/12/16/2025121601747_0_thumb.jpg"
+          },
+          {
+            "title": "\"심장 느리게 뛰는 서맥성 부정맥… '인공심박동기' 삽입해 사망 위험 낮출 수 있어\"",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/16/2025121602279.html",
+            "image": "https://health.chosun.com/site/data/thumb_dir/2025/12/16/2025121602268_0_thumb.jpg"
+          },
+          {
+            "title": "‘유방 확대 재수술’ 후 작아진 가슴… 보상받을 수 있을까?",
+            "url": "https://health.chosun.com/site/data/html_dir/2025/12/16/2025121601838.html",
+            "image": "https://health.chosun.com/site/data/img_dir/2025/12/16/2025121601827_0.jpg"
+          },
+          {
+            "title": "순천향대천안병원, 충남 유일 ‘재관류치료 뇌졸중센터’ 인증 획득",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265790",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265790_300183_91_v150.jpg"
+          }
+        ]
+      },
+      {
+        "title": "AI 및 로봇 기반 첨단 수술 기술",
+        "summary": "AI 기반 뇌영상 분석 솔루션이 도입되며 진단 효율성이 높아지는 가운데, 수술 분야에서는 로봇 및 내시경을 이용한 최소침습 유방암 수술이 기존 절제술보다 합병증이 적다는 연구 결과가 나왔습니다. 특히 대장암 치료에 다빈치 SP 단일 포트 로봇 수술을 적용한 비교 연구 발표와 부인과 질환에서 로봇 수술 1,000례 달성 소식은 로봇 수술 분야의 임상 성숙도를 보여줍니다.",
+        "news_ids": [
+          133,
+          150,
+          194,
+          250,
+          258,
+          293
+        ],
+        "news_links": [
+          {
+            "title": "제이엘케이, 안성병원과 뇌영상 AI 솔루션 공급 계약 체결",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568632",
+            "image": null
+          },
+          {
+            "title": "유방암 ‘최소침습 수술’, ‘절제술’ 보다 합병증 적어",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568615",
+            "image": null
+          },
+          {
+            "title": "계명대 동산병원, 고형암 로봇수술 비교 연구 국제학술지 게재",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568571",
+            "image": null
+          },
+          {
+            "title": "서울아산병원의 기적, 심장이 몸 밖에 나온 채 출생한 신생아 생존",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265778",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265778_300169_3930_v150.jpg"
+          },
+          {
+            "title": "로봇·내시경 이용 ‘최소침습’ 유방암 수술 합병증 낮다",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265786",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265786_300177_5836_v150.jpg"
+          },
+          {
+            "title": "원주세브란스기독병원 박은영 교수, 부인과 질환 로봇수술 1,000례 달성",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265733",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265733_300129_4827_v150.jpg"
+          }
+        ]
+      },
+      {
+        "title": "글로벌 규제 환경 변화 및 품질 관리",
+        "summary": "미국 FDA가 의료기기 승인 신청 시 실제 임상 근거(RWE) 제출에 대한 장벽을 완화하면서 첨단 의료기기의 시장 진입 경로가 확장될 가능성이 제시되었습니다. 반면, 국내에서는 의료 로봇 전문 기업이 GMP 정기 심사를 받지 않아 수입 업무 정지 처분을 받는 등 고위험 의료기기에 대한 국내외 제조 및 품질 관리 기준 준수 중요성이 강조되었습니다.",
+        "news_ids": [
+          48,
+          55,
+          74,
+          205,
+          274
+        ],
+        "news_links": [
+          {
+            "title": "\"바이오 의료기기 글로벌 수출, 임상근거·KOL 네트워크 관건\"",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265725",
+            "image": "https://cdn.bosa.co.kr/news/thumbnail/202512/2265725_300120_5436_v150.jpg"
+          },
+          {
+            "title": "[모집]한국의료기기산업협회, '2026 베트남 K 의료기기 전시회(K Med Expo)' 참가업체 모집 안내",
+            "url": "http://www.dailymedipharm.com/news/articleView.html?idxno=75290",
+            "image": "http://www.dailymedipharm.com/news/photo/202512/75290_49324_2018.png"
+          },
+          {
+            "title": "<b>의료기기</b>전자민원시스템 사용자 편의성 대폭 개선",
+            "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.korea.kr/common/download.do%3FfileId%3D198300321%26tblKey%3DGMN&ct=ga&cd=CAIyHGNhNTA4ZTM3ZDIxM2JkNjM6Y29tOmtvOlVTOkw&usg=AOvVaw0jGzP5hDX7BrU-VWdQEWJQ",
+            "image": null
+          },
+          {
+            "title": "식약처, 큐렉소에 수입업무 3개월 정지 처분",
+            "url": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=568560",
+            "image": null
+          },
+          {
+            "title": "미 의료기 승인신청 RWE에 ‘활짝’",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2265762",
+            "image": "http://www.bosa.co.kr/image/logo/snslogo_20210311040859.jpg"
+          }
+        ]
+      }
+    ]
   }
 }
